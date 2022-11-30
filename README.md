@@ -1,4 +1,4 @@
-# Бот шифровальщик 
+# Бот шифровальщик @cryptographermipt_bot
 ## Клонирование репозитория:
 git clone git@github.com:ifilippenkov/Project2.git<br>
 cd Project2 <br>
